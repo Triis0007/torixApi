@@ -80,3 +80,4 @@ app.get('/github', (req, res) => {
 const listener = server.listen(8000, function() {
 	console.log('[ONLINE] API ligada na porta' + listener.address().port)
 });
+
