@@ -44,6 +44,11 @@ module.exports = {
         "00042": 'https://i.imgur.com/VgYAFPI.jpeg',
         "00043": 'https://i.imgur.com/xp4WKjC.jpeg',
         "00044": 'https://i.imgur.com/y2zl6UN.jpeg',
-        
+        "00045": 'https://www.curiosidades.com.br/wp-content/uploads/2020/02/de-an-sun-W5KRVSjG6M8-unsplash-scaled.jpg',
+        "00046": 'https://th.bing.com/th/id/OIP.qFrRrq_Pg0wTVsW-JBK9kAHaFj?pid=ImgDet&w=193&h=144&c=7',
+        "00047": 'https://th.bing.com/th/id/OIP.pwGWPweN6IGbIDtB4isZTAHaGI?pid=ImgDet&w=800&h=663&rs=1',
+        "00048": 'https://th.bing.com/th/id/OIP.O2kaO9N09wxEToxyn_F8dwHaFj?pid=ImgDet&w=193&h=144&c=7',
+        "00049": 'https://th.bing.com/th/id/OIP.0jisUscdzIY0Wyc-XuMOkwHaFj?pid=ImgDet&w=193&h=144&c=7',
+        "00050": 'https://th.bing.com/th/id/OIP.REzJk9x04sMNjRLjJ78GbgHaEo?pid=ImgDet&rs=1',
     }
 }
