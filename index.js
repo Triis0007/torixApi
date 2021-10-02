@@ -68,6 +68,10 @@ app.get(`/api/v1/cat`, (req, res) => {
 	return res.json(jsonApi.cat)
 })
 
+app.get(`/api/v1/wallpapers`, (req, res) => {
+	return res.json(jsonApi.wallpapers)
+})
+
 app.get('/discord', (req, res) => {
 	res.redirect('https://discord.gg/tYqKFJaP8c')
 })
