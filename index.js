@@ -72,6 +72,10 @@ app.get(`/api/v1/wallpapers`, (req, res) => {
 	return res.json(jsonApi.wallpapers)
 })
 
+app.get(`/api/v1/turtles`, (req, res) => {
+	return res.json(jsonApi.turtles)
+})
+
 app.get('/discord', (req, res) => {
 	res.redirect('https://discord.gg/tYqKFJaP8c')
 })
