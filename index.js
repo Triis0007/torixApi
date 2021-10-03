@@ -64,6 +64,17 @@ app.get('/docs', (req, res) => {
 	
 });
 
+	app.get('/endpoints', (req, res) => {
+	return res.json(
+		{
+			cat: 'https://torix.bonee.xyz/api/v1/cat', 
+			wallpapers: 'https://torix.bonee.xyz/api/v1/wallpapers',
+      turtles: 'https://torix.bonee.xyz/api/v1/turtles',
+		}
+	)
+	
+});
+
 app.get(`/api/v1/cat`, (req, res) => {
 	return res.json(jsonApi.cat)
 })
@@ -88,4 +99,3 @@ app.get('/github', (req, res) => {
 const listener = server.listen(8000, function() {
 	console.log('[ONLINE] API ligada na porta' + listener.address().port)
 });
-
