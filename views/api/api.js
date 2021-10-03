@@ -103,5 +103,15 @@ wallpapers: {
     "00048": 'https://wallpapers.com/images/thumb/stranger-things-2-desktop-poster-dkttxahzpl44tbsa.jpg',
     "00049": 'https://wallpapers.com/images/thumbnail/kakegurui-yumeko-with-falling-cards-and-chips-rq7b55ahlyzvw69n.jpg',
     "00050": 'https://wallpapers.com/images/thumbnail/yumeko-and-kirari-in-kakegurui-anime-ms1i15hbsivbqag3.jpg',
+    },
+
+    turtles: {
+        "00001": 'https://th.bing.com/th/id/OIP.dbHltv5j-TkdKohK5I6zWgHaFT?pid=ImgDet&rs=1',
+        "00002": 'https://th.bing.com/th/id/R.0f15287b7d6e6132fe2b0e0769133510?rik=pD4GqnNHtVIvfg&pid=ImgRaw&r=0',
+        "00003": 'https://th.bing.com/th/id/OIP.mc8-1RSJ-dMZV6usv1qv_gHaEC?pid=ImgDet&rs=1',
+        "00004": 'https://i.imgur.com/4NLElhEb.jpg',
+        "00005": 'https://i.imgur.com/zC8sER6b.jpg',
+        "00006": 'https://i.imgur.com/Qwj6KA2b.jpg',
+        "00007": 'https://i.imgur.com/S2xLTZeb.jpg',
     }
 }
