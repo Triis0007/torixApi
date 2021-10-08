@@ -156,5 +156,10 @@ wallpapers: {
         "00048": 'https://cdn.pixabay.com/photo/2020/01/27/02/41/turtle-4796294__340.jpg',
         "00049": 'https://cdn.pixabay.com/photo/2019/02/10/14/07/water-turtle-3987305__340.jpg',
         "00050": 'https://cdn.pixabay.com/photo/2018/10/11/20/44/giant-tortoise-3740843__340.jpg',
-    }
+    },
+    dog: {
+      "00001": 'https://www.pexels.com/photo/brown-and-white-short-coated-puppy-1805164/',
+      "00002": 'https://www.pexels.com/photo/short-coated-tan-dog-2253275/',
+      "00003": 'https://www.pexels.com/photo/dog-snout-puppy-royalty-free-97082/',
+   }
 }
