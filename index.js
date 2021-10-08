@@ -87,6 +87,10 @@ app.get(`/api/v1/turtles`, (req, res) => {
 	return res.json(jsonApi.turtles)
 })
 
+app.get(`/api/v1/dog`, (req, res) => {
+	return res.json(jsonApi.dog)
+})
+
 app.get('/discord', (req, res) => {
 	res.redirect('https://discord.gg/tYqKFJaP8c')
 })
