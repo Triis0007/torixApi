@@ -91,10 +91,42 @@ app.get(`/api/v1/dog`, (req, res) => {
 	return res.json(jsonApi.dog)
 })
 
-app.get(`/api/v1/anime`, (req, res) => {
-	return res.json(jsonApi.anime)
+//anime
+
+app.get(`/api/v1/anime/01`, (req, res) => {
+	return res.json(jsonApi.kurosawa)
 })
 
+app.get(`/api/v1/anime/02`, (req, res) => {
+	return res.json(jsonApi.neneAlkastone)
+})
+
+app.get(`/api/v1/anime/03`, (req, res) => {
+	return res.json(jsonApi.chthollyNota)
+})
+
+app.get(`/api/v1/anime/04`, (req, res) => {
+  return res.json(jsonApi.megumin)
+})
+
+app.get(`/api/v1/anime/05`, (req, res) => {
+  return res.json(jsonApi.shinobuKochou)
+})
+
+app.get(`/api/v1/anime/06`, (req, res) => {
+  return res.json(jsonApi.kanao)
+})
+
+app.get(`/api/v1/anime/07`, (req, res) => {
+  return res.json(jsonApi.sakura)
+})
+
+app.get(`/api/v1/anime/08`, (req, res) => {
+  return res.json(jsonApi.miku)
+})
+
+
+//links
 app.get('/discord', (req, res) => {
 	res.redirect('https://discord.gg/tYqKFJaP8c')
 })
@@ -107,3 +139,4 @@ app.get('/github', (req, res) => {
 const listener = server.listen(8000, function() {
 	console.log('[ONLINE] API ligada na porta' + listener.address().port)
 });
+
