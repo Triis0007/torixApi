@@ -91,6 +91,10 @@ app.get(`/api/v1/dog`, (req, res) => {
 	return res.json(jsonApi.dog)
 })
 
+app.get(`/api/v1/anime`, (req, res) => {
+	return res.json(jsonApi.anime)
+})
+
 app.get('/discord', (req, res) => {
 	res.redirect('https://discord.gg/tYqKFJaP8c')
 })
