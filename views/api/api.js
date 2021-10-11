@@ -157,9 +157,37 @@ wallpapers: {
         "00049": 'https://cdn.pixabay.com/photo/2019/02/10/14/07/water-turtle-3987305__340.jpg',
         "00050": 'https://cdn.pixabay.com/photo/2018/10/11/20/44/giant-tortoise-3740843__340.jpg',
     },
-    dog: {
-      "00001": 'https://www.pexels.com/photo/brown-and-white-short-coated-puppy-1805164/',
-      "00002": 'https://www.pexels.com/photo/short-coated-tan-dog-2253275/',
-      "00003": 'https://www.pexels.com/photo/dog-snout-puppy-royalty-free-97082/',
+   //anime
+   kurosawa: {
+     "name": 'Dia Kurosawa',
+     "image": 'https://th.bing.com/th/id/OIP.fPghEr2pJVYRTRDCnG2evQHaKe?pid=ImgDet&rs=1',
+   },
+   neneAlkastone: {
+     "name": 'Nene Alkastone',
+     "image": 'https://th.bing.com/th/id/OIP.nFSkI8fHCMPsEjUQqrQN6gAAAA?pid=ImgDet&rs=1',
+   },
+   chthollyNota: {
+     "name": 'Chtholly Nota Seniorious',
+     "image": 'https://th.bing.com/th/id/OIP.OT0L_QLp2zmbnaTXQ46tXAHaKd?pid=ImgDet&rs=1',
+   },
+   megumin: {
+     "name": 'Megumin',
+     "image": 'https://i.imgur.com/8lpxyeN.jpg',
+   },
+   shinobuKochou: {
+     "name": 'Shinobu Kochou',
+     "image": 'https://hoso.wiki/wp-content/uploads/2020/05/kochou-shinobu.jpg',
+   },
+   kanao: {
+     "name": 'Kanao',
+     "image": 'https://i.redd.it/0e5dxerlji841.jpg',
+   },
+   sakura: {
+     "name": 'Sakura',
+     "image": 'https://th.bing.com/th/id/R.c579e18ab4066f278b529804aee5a2de?rik=2K45d0Jup3aSGQ&riu=http%3a%2f%2f4.bp.blogspot.com%2f_OHm_BeQNxUw%2fTGqXvx5MOzI%2fAAAAAAAAACY%2fL2FSq5uP3DY%2fs1600%2f20080428040655haruno_sakura2%5b1%5d.jpg&ehk=IiHL8Dj6zNBluaCPsiNxo8s2yf%2f2FKaQiZyBHtgawu0%3d&risl=&pid=ImgRaw&r=0',
+   },
+   miku: {
+     "name": 'Miku',
+     "image": 'https://cdn.donmai.us/sample/f0/66/sample-f066ffdfbb747359b172ca121e29d248.jpg',
    }
 }
