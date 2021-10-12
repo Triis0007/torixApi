@@ -125,6 +125,18 @@ app.get(`/api/v1/anime/08`, (req, res) => {
   return res.json(jsonApi.miku)
 })
 
+app.get(`/api/v1/anime/09`, (req, res) => {
+  return res.json(jsonApi.kaguya)
+})
+
+app.get(`/api/v1/anime/10`, (req, res) => {
+  return res.json(jsonApi.tenten)
+})
+
+app.get(`/api/v1/anime/11`, (req, res) => {
+  return res.json(jsonApi.bulma)
+})
+
 
 //links
 app.get('/discord', (req, res) => {
@@ -139,4 +151,3 @@ app.get('/github', (req, res) => {
 const listener = server.listen(8000, function() {
 	console.log('[ONLINE] API ligada na porta' + listener.address().port)
 });
-
