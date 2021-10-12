@@ -137,6 +137,9 @@ app.get(`/api/v1/anime/11`, (req, res) => {
   return res.json(jsonApi.bulma)
 })
 
+app.get(`/api/v1/anime/12`, (req, res) => {
+  return res.json(jsonApi.nezuko)
+})
 
 //links
 app.get('/discord', (req, res) => {
