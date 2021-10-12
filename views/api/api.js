@@ -202,4 +202,8 @@ wallpapers: {
      "name": 'Bulma',
      "image": 'https://th.bing.com/th/id/R.82cb680864c43a54d5f16133a53b5548?rik=HEtCJk2rIlxjtw&pid=ImgRaw&r=0',
    },
+   nezuko: {
+     "name": 'Nezuko',
+     "image": 'https://cdn.discordapp.com/attachments/896503845520306210/897451833310707752/unknown.png',
+   }
 }
