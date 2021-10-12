@@ -189,5 +189,17 @@ wallpapers: {
    miku: {
      "name": 'Miku',
      "image": 'https://cdn.donmai.us/sample/f0/66/sample-f066ffdfbb747359b172ca121e29d248.jpg',
-   }
+   },
+   kaguya: {
+     "name": 'Kaguya',
+     "image": 'https://th.bing.com/th/id/OIP.9bt2LOwwUcSJUVAmJGQoogHaKe?pid=ImgDet&rs=1',
+   },
+   tenten: {
+     "name": 'Tenten',
+     "image": 'https://th.bing.com/th/id/R.f78dffca67e45eb4856bf7990a59068?rik=tZkrup6UivzOdg&riu=http%3a%2f%2f4.bp.blogspot.com%2f_wHD91adV79o%2fTPRcLlSKVTI%2fAAAAAAAAAAw%2fTxLqvhPLdeY%2fw1200-h630-p-k-no-nu%2ftenten.jpg&ehk=DstkFzz8p1vYRAq8gCmtmU4jen3dJJhThLH46pOoOQw%3d&risl=&pid=ImgRaw&r=0',
+   },
+   bulma: {
+     "name": 'Bulma',
+     "image": 'https://th.bing.com/th/id/R.82cb680864c43a54d5f16133a53b5548?rik=HEtCJk2rIlxjtw&pid=ImgRaw&r=0',
+   },
 }
