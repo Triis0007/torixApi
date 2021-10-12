@@ -93,47 +93,47 @@ app.get(`/api/v1/dog`, (req, res) => {
 
 //anime
 
-app.get(`/api/v1/anime/01`, (req, res) => {
+app.get(`/api/v1/anime/001`, (req, res) => {
 	return res.json(jsonApi.kurosawa)
 })
 
-app.get(`/api/v1/anime/02`, (req, res) => {
+app.get(`/api/v1/anime/002`, (req, res) => {
 	return res.json(jsonApi.neneAlkastone)
 })
 
-app.get(`/api/v1/anime/03`, (req, res) => {
+app.get(`/api/v1/anime/003`, (req, res) => {
 	return res.json(jsonApi.chthollyNota)
 })
 
-app.get(`/api/v1/anime/04`, (req, res) => {
+app.get(`/api/v1/anime/004`, (req, res) => {
   return res.json(jsonApi.megumin)
 })
 
-app.get(`/api/v1/anime/05`, (req, res) => {
+app.get(`/api/v1/anime/005`, (req, res) => {
   return res.json(jsonApi.shinobuKochou)
 })
 
-app.get(`/api/v1/anime/06`, (req, res) => {
+app.get(`/api/v1/anime/006`, (req, res) => {
   return res.json(jsonApi.kanao)
 })
 
-app.get(`/api/v1/anime/07`, (req, res) => {
+app.get(`/api/v1/anime/007`, (req, res) => {
   return res.json(jsonApi.sakura)
 })
 
-app.get(`/api/v1/anime/08`, (req, res) => {
+app.get(`/api/v1/anime/008`, (req, res) => {
   return res.json(jsonApi.miku)
 })
 
-app.get(`/api/v1/anime/09`, (req, res) => {
+app.get(`/api/v1/anime/009`, (req, res) => {
   return res.json(jsonApi.kaguya)
 })
 
-app.get(`/api/v1/anime/10`, (req, res) => {
+app.get(`/api/v1/anime/010`, (req, res) => {
   return res.json(jsonApi.tenten)
 })
 
-app.get(`/api/v1/anime/11`, (req, res) => {
+app.get(`/api/v1/anime/011`, (req, res) => {
   return res.json(jsonApi.bulma)
 })
 
