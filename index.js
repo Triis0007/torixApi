@@ -147,7 +147,7 @@ app.get('/discord', (req, res) => {
 })
 
 app.get('/github', (req, res) => {
-	res.redirect('https://github.com/Leoo027/torixApi')
+	res.redirect('https://github.com/torixApi/torixApi')
 })
 
 
